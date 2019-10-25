@@ -8,7 +8,6 @@ summary:  Description:
 image: 
 imageShowcase: https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1993&q=80
 date: 2019-01-29
----
 
 title: Blockchain Basics
 url: https://consensys.net/academy/blockchain-basics-book/
@@ -26,3 +25,5 @@ summary:  Description: If you are a Java Developer, take tutorials and work on p
 title: Interested in the up-and-coming world of decentralized finance?
 url: https://kauri.io/collection/5cab3a8c4e04590001eccfa2/open-finance-(defi)
 summary:  Description: Permissionless, open access financial products and protocols built using peer-to-peer technology like the Ethereum blockchain
+
+---

@@ -8,7 +8,7 @@ summary:  Description: Academy hosts free webinars for anyone to view, and are u
 image: 
 imageShowcase:
 date: 2019-01-29
----
+
 title: The Tokenized Future
 url: https://learn.consensys.net/catalog/info/id:174
 
@@ -32,3 +32,5 @@ url: https://learn.consensys.net/catalog/info/id:164
 
 title: Libra: Building and Understanding Facebook’s Cryptocurrency
 url: https://learn.consensys.net/catalog/info/id:169
+
+---

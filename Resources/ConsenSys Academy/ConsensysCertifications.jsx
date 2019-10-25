@@ -8,7 +8,6 @@ summary:  Description: There are a suite of certifications for those looking to 
 image: 
 imageShowcase:
 date: 2019-01-29
----
 
 title: Ethereum Business Professional Certification Exam
 url: https://learn.consensys.net/catalog/info/id:154
@@ -24,3 +23,5 @@ url: https://learn.consensys.net/catalog/info/id:129
 
 title: Hyperledger Besu Essentials Certification
 url: https://learn.consensys.net/catalog/info/id:151
+
+---
